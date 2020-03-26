@@ -1,0 +1,14 @@
+$bg-color: #3b9994;
+$box-color: #ff88ae;
+
+h1 {
+    background-color: $bg-color;
+    color: $box-color;
+    font-size: 40px;
+}
+
+.homeIcon {
+    height: 400px;
+    width: 500px;
+    background-image: url('../img/home.jpg');
+}
